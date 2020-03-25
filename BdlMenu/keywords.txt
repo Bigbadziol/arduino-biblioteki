@@ -1,0 +1,36 @@
+#######################################
+# Syntax Coloring Map For BdlMenu
+#######################################
+
+#######################################
+# Datatypes (KEYWORD1)
+#######################################
+
+cMenu	KEYWORD1
+kursor  KEYWORD1
+
+
+#######################################
+# Methods and Functions (KEYWORD2)
+#######################################
+KursorUstaw             KEYWORD2
+KursorGora              KEYWORD2
+KursorDol               KEYWORD2
+KursorPrzod             KEYWORD2
+KursorCofnij            KEYWORD2
+KursorAkcja             KEYWORD2
+ZrzutKursor             KEYWORD2
+
+Dodaj                   KEYWORD2
+ZliczPozycje            KEYWORD2
+Sortuj                  KEYWORD2
+ZrzutDane               KEYWORD2
+ZrzutAktywneMenu        KEYWORD2
+Rysuj                   KEYWORD2
+IleNadMenu              KEYWORD2
+IlePodMenuAktywujMenu   KEYWORD2
+
+
+#######################################
+# Constants (LITERAL1)
+#######################################
